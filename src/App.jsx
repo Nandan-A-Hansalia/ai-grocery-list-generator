@@ -223,7 +223,7 @@ export default function App() {
         <span style={{ fontSize:"30px" }}>🛒</span>
         <div style={{ flex:1 }}>
           <h1 style={{ margin:0, fontSize:"21px", fontWeight:"700", color:COLORS.accent }}>AI Grocery List Generator</h1>
-          <p style={{ margin:"2px 0 0", fontSize:"11px", color:COLORS.textMuted, fontFamily:mono }}>meal plan to smart shopping list - powered by Groq AI</p>
+          <p style={{ margin:"2px 0 0", fontSize:"11px", color:COLORS.textMuted, fontFamily:mono }}>meal plan to smart shopping list.</p>
         </div>
         <div style={{ background:COLORS.accentGlow, border:"1px solid " + COLORS.accentDim, color:COLORS.accent, borderRadius:"20px", padding:"4px 12px", fontSize:"10px", fontFamily:mono, textTransform:"uppercase" }}>
           Food and Nutrition AI
