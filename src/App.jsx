@@ -30,7 +30,7 @@ const SUGGESTIONS = [
   "Healthy vegan breakfast meal prep shopping list",
 ];
 
-const API_KEY = "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";
+const API_KEY = "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";
 const GROQ_URL = "https://api.groq.com/openai/v1/chat/completions";
 const SYSTEM = "You are a domain-specific AI grocery and meal planning assistant. You ONLY help with meal planning, grocery shopping, ingredient lists, nutrition, cooking, recipes, and food-related topics. If asked ANYTHING outside this domain, politely decline and redirect to grocery or meal topics. Be friendly and helpful about food.";
 
